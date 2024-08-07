@@ -1,0 +1,29 @@
+@font-face {
+  font-family:kumbhsans-bold;
+  src: url(../src/assets/KumbhSans-Bold.ttf);
+}
+@font-face {
+  font-family:kumbhsans-regular;
+  src: url(../src/assets/KumbhSans-Regular.ttf);
+}
+
+
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  height: 100%;
+  width: 100%; 
+  margin: 0;
+  background-color:  hsl(185, 75%, 39%);
+  background-image: url(../../profile-card/src/assets/bg-pattern-bottom.svg);
+  background-repeat:repeat;
+}
+#root{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

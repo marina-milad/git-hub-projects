@@ -1,0 +1,17 @@
+#likesdiv{
+    display: flex;
+    flex-direction:column;
+   height: 100%;
+}
+h2{
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 0;
+    margin-top: 10px;
+}
+p{
+    margin-top: 5px;
+    font-size: 12px;
+    color: hsl(227, 10%, 46%);
+    font-family: kumbhsans-regular;
+}
